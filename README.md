@@ -4,8 +4,8 @@
 
 | Firmware       |Description			|
 |----------------|-------------------------------|
-|[Basic Task](https://github.com/pablofsmelo/FreeRTOS_ESPIDF_Concepts_Examples/tree/main/FreeRTOS-Blinky-Hello-World-Task-Create)              |Blink and Hello World printf using FreeRTOS Tasks|
-|[Task TickCount](https://github.com/pablofsmelo/FreeRTOS_ESPIDF_Concepts_Examples/tree/main/FreeRTOS-Blinky-Hello-World-Task-Create)          |xTaskGetTickCount|
+|[Simple Tasks](https://github.com/pablofsmelo/FreeRTOS_ESPIDF_Concepts_Examples/tree/main/FreeRTOS-Blinky-Hello-World-Task-Create)              |Blink and Hello World printf using FreeRTOS Tasks|
+|[Idle Task and Idle Task Hook](https://github.com/pablofsmelo/FreeRTOS_ESPIDF_Concepts_Examples/tree/main/FreeRTOS-Blinky-Hello-World-Task-Create)          |xTaskGetTickCount|
 
 # References
 
